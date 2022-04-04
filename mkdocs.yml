@@ -50,13 +50,11 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/samapriya
-    - icon: fontawesome/brands/medium
-      link: https://medium.com/@samapriyaroy
+      link: https://github.com/Ceregeo
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/samapriyaroy
+      link: https://twitter.com
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/samapriya
+      link: https://www.linkedin.com/
 
 # Extensions
 markdown_extensions:
