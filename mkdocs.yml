@@ -102,5 +102,6 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Introduction: index.md
-  - Catalog Stats: 
+  - Introduccion: index.md
+  - Trabajos: index.md
+  - Catalog Stats: index.md
