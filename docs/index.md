@@ -1,10 +1,8 @@
-# Welcome to MkDocs
+# Bienvenido al Centro Regional de Geomática
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Introducción
 
-## Commands
+## Quiene Somos
 
-
-
-## Project layout
+## Publicaciones
 
