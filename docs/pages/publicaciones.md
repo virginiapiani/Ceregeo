@@ -1,7 +1,15 @@
-#Publicaciones
-___________________
+# Publicaciones
 
-##Año 2020
+
+## **``` Año 2020 ```**  
+
+
+![image](gdalsequence.PNG)
+
+* [X] hecho
+* [ ] no hecho
+
+:smile:
 
 Bizai, María L.; Romina, Peralta; Antonela, Simonetto; Olivera, Lorena V.; Arias, Evelyn E.; Josefina, Dalla Costa; Silvia, Manattini; Walter, Sione; Diana, Fabbro; Cristina, Diez. «Geographic distribution of Trypanosoma cruzi genotypes detected in chronic infected
 people from Argentina. Association with climatic variables and clinical manifestations of Chagas disease». Infection, Genetics and Evolution, 78 (2020)
