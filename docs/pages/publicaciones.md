@@ -4,17 +4,10 @@
 ## **``` Año 2020 ```**  
 
 
-![image](gdalsequence.PNG)
-
-* [X] hecho
-* [ ] no hecho
-
-:smile:
-
 Bizai, María L.; Romina, Peralta; Antonela, Simonetto; Olivera, Lorena V.; Arias, Evelyn E.; Josefina, Dalla Costa; Silvia, Manattini; Walter, Sione; Diana, Fabbro; Cristina, Diez. «Geographic distribution of Trypanosoma cruzi genotypes detected in chronic infected
 people from Argentina. Association with climatic variables and clinical manifestations of Chagas disease». Infection, Genetics and Evolution, 78 (2020)
 
-Año 2019
+## **``` Año 2019 ```** 
 
 Castro-Díaz, R.; Sione, W.; Ferreiro, B.; Piani, V.; Urich, G.; Aceñolaza, P. 2019. “Spatial modelling of social-ecological systems of hydrological environmental services in Las Conchas Creek basin, Argentina”. En: Delgado, L.E. y Marín, V. (Eds.). “Social-ecological systems of Latin America: complexities and challenges”. Springer International Publishing. 438 pp. ISBN 978-3-030-28451-0 (Hardcover) ISBN 978-3-030-28452-7 (eBook).
 
@@ -25,7 +18,7 @@ Guillermo HEIT; Sione Walter; Aceñolaza, Pablo. «Spatio-temporal risk assessme
 
 Guillermo HEIT; Sione Walter; Claps Lucía; Aceñolaza, Pablo. «Comparison of deductive classification techniques for predicting potential spatial distribution of quarantine insects». Revista de la Sociedad Entomológica Argentina, 78 num.4 (2019): 14 – 22.
 
-Año 2018
+## **``` Año 2018 ```** 
 
 LÓPEZ, MARÍA S.; MÜLLER, GABRIELA V.; SIONE, WALTER F.. Analysis of the spatial distribution of scientific publications regarding vector-borne diseases related to climate variability in South America. Spatial and Spatio-temporal Epidemiology.: Elsevier BV. 2018 vol.26 n°. p35 – 93. issn 1877-5845. Descargar
 
@@ -33,7 +26,7 @@ ANAYA ACEVEDO, J. A.; RODRIGUEZ, A ; SIONE, W. F.. Identificación de áreas que
 
 Ricardo Castro Díaz; Zamboni L.P.,; Sione Walter; Aceñolaza, P.G.. «Elementos territoriales claves para la gestión del fuego en el Paraná medio». El Ojo del Condor, 9 num.9 (2018): 28 – 33.
 
-Año 2017
+## **``` Año 2017 ```** 
 
 Aceñolaza, P.G.; Sione, W.F.; M.C. SERAFINI. Geomatic Applications in Earth Sciences. Tucumán: Serie Correlación Geológica. 2017. pag.158. isbn 0-1514-4186-3 Descargar
 
@@ -59,7 +52,7 @@ Maldonado, F. D.; Barrientos, L. G.; Fochesatto, H. A.; Sosa, E. F. 2017. Técni
 
 Maldonado, F.D.; Sione, W.F.; Tentor, F.R.; Aceñolaza, P.G. 2017. Separación automática de áreas de bosque nativo por aproximación temática a través de la acumulación multitemporal de clases con índice SAVI Bajo.  En: Libro de resúmenes XVII Simposio Brasilero De Sensoramiento Remoto.  Instituto Nacional De Pesquisas Espaciais (Inpe). Brasil. Descargar
 
-Año 2016
+## **``` Año 2016 ```** 
 
 Anaya Acevedo, J.A.; Rodriguez, A.; Sione, W. 2016. Building NBR time series with cloud-free Landsat 7 and 8 images to determine burned area at subcontinental scale.  En: ForestSAT2016: un Puente entre las Ciencias Forestales, la Teledetección y Aplicaciones Geo-espaciales. Universidad Mayor Campus Manuel Montt. Chile.
 
@@ -99,7 +92,7 @@ Sequin, C.; Aceñolaza, P.; Sampietro, D.; Gieco, A. 2016. Actividad antifungica
 
 Sione, W. (ed.) 2016. «SELPER 2016: Geotecnologías, Herramientas para la construcción de una nueva visión del cambio global y su transformación para un futuro sostenible». Editorial EdunLu, Luján-Buenos Aires, Argentina. Primera Edición. ISBN: 978-987-3941-14-6. Descargar
 
-Año 2015
+## **``` Año 2015 ```** 
 
 Barrachini, A.; Rodriguez, E.E.; Aceñolaza, P. 2015. Actualización de la base de datos de las especies exóticas leñosas para la provincia de Entre Ríos. XII Jornadas de Ciencias Naturales del Litoral. Paraná, Entre Ríos, Argentina. 02 y 03 de noviembre. Descarga
 
@@ -125,7 +118,7 @@ Rodriguez, E.E.; Aceñolaza, P.G.; D’Angelo, R. 2015. Análisis florístico de
 
 Rodriguez, E.E. & F. Latorre. 2015. Árboles exóticos periurbanos y su representación en el espectro polínico atmosférico de Diamante (Entre Ríos). Boletín de la Sociedad Argentina de Botánica 50 (Supl.): 215-216. Descarga
 
-Año 2014
+## **``` Año 2014 ```** 
 
 Aceñolaza, P.G.; Zamboni P.; Tentor F.; Kalesnik F.; Rodriguez E.E.; Sione W. y C. Serafini. 2014. Mapa de cobertura de suelo para el Complejo Fluvio/Litoral del río Paraná (CFLRP) con herramientas de geomática. UD y la Geomática 8:39 – 44. Descarga
 
@@ -139,7 +132,7 @@ Zamboni, L.P.; Sione, W. y P.G. Aceñolaza. 2014. Diagnóstico y ordenamiento te
 
 Zamboni, L.P.; Sione, W.; Tentor, F. y P. Aceñolaza. 2014. Cartografía de Cambios de cobertura del suelo (1987-1998) para el Parque Nacional Predelta (Entre Ríos, Argentina). Revista Geográfica de América Central 52 (1): 179-204. Descarga
 
-Año 2013
+## **``` Año 2013 ```** 
 
 Aceñolaza, P.; Blanco, P.; Coditz, R.; Hardkle, L.; Zamboni, L.P.; del Valle, H.; Rodriguez, E.E.; W. Sione. 2013. Cartografía de la cobertura de suelo para Latinoamérica y el Caribe al año 2008. XXXIV Jornadas Argentinas de Botánica. La Plata, Argentina, 2 al 6 de setiembre de 2013. Descarga
 
@@ -187,7 +180,7 @@ Zamboni L.P.; Sione, W.; Tentor, F. y P. Aceñolaza. 2013. Cartografía de Cambi
 
 Zamboni, L.P.; Tentor, F.R.; Sione, W.F.; Hardtke, L.; Del Valle, H.F.; Quignard, I. y P.G. Aceñolaza. 2013. Patrones espacio temporales de incendios en el Complejo Litoral del Río Paraná. Interciencia 38 (09) 634-641. Descarga
 
-Año 2012
+## **``` Año 2012 ```** 
 
 Aceñolaza, P.; Rodriguez, E.; Díaz, D. 2012. “Diversidad de especies vegetales bajo forestaciones de eucalipto en el NE de Entre Ríos”. Segundo Seminario Taller Conservación de la Biodiversidad en Predios Forestales, 21 de Septiembre. INTA Concordia, Entre Ríos, Argentina.
 
@@ -223,7 +216,7 @@ Villanueva, S.N.; Serafini, M.C.; Sione, W. 2012. “Integración de informació
 
 Zamboni, L.P.; Sione, W.F.; Rodriguez, E.E., Aceñolaza, P.G. 2012. “Land cover change map (1987-1999) to Pre-Delta National Park and it´s influence area (Argentina): guiding principles”. Revista Ambiente & Água (Enviado para evaluación).
 
-Año 2011
+## **``` Año 2011 ```** 
 
 Aceñolaza, P.G.; Rodriguez, E.E. 2011. “Flora del Arroyo El Palmar, Provincia de Entre Ríos”. Boletín de la Sociedad Argentina de Botánica 46 (s): 179. Descarga
 
@@ -253,7 +246,7 @@ Rodriguez, E.E.; Aceñolaza, P.G. 2011. “Nueva cita para la Provincia de Entre
 
 Schneider, B.; Aceñolaza, P.G.; Rodriguez, E.E. 2011. “Riqueza florística de la Reserva La Lydia (Departamento Nogoyá, Entre Ríos)”. Boletín de la Sociedad Argentina de Botánica 46 (s): 210. Descarga
 
-Año 2010
+## **``` Año 2010 ```** 
 
 Aceñolaza, P.; Sione, W.; Zamboni, L.P.; del Valle, H.; Kalesnik, F.; Rodriguez, E.; Tentor, F.; Gallardo Lancho, J.F. 2010. “Evaluación del evento de incendios extraordinarios del año 2008 en el Complejo Litoral del Ríos Paraná”. I Jornadas Nacionales de Tecnologías y Métodos para la gestión del territorio, I Taller Nacional de Especialistas en Geodesastres, 13 y 14 de Mayo. Córdoba, Argentina. Descarga
 
@@ -267,13 +260,13 @@ Rodriguez, E.E.; Aceñolaza, P.G. 2010. “Caracterización florística de pasti
 
 Zamboni, L.P.; Sione, W.; Bortoluzzi, A; Zamboni, L. V.; E. Rodríguez E. y Aceñolaza, P. 2010. “Mapas encuestas, una metodología participativa para la evaluación de invasiones biológicas: estudio de un caso”. Gestión Ambiental. 19: 11-22. Descarga
 
-Año 2009
+## **``` Año 2009 ```** 
 
 Aceñolaza P. G., L. P. Zamboni, J. F. Gallardo Lancho. 2009. Aporte de hojarasca en bosques del predelta del río Paraná (Argentina). BOSQUE 30(3): 135-145.
 
 Aceñolaza, P.; Sione, W; Rodríguez E; Kalesnik, F; Manzano, A. 2009. Arroyo El Palmar: Características de cuenca y superficie de humedal. Informe Sitio RAMSAR Cuenca Arroyo El Palmar. (Entre Ríos, R. Argentina)
 
-Año 2008
+## **``` Año 2008 ```** 
 
 Sione, W., P. Aceñolaza, L. P. Zamboni, C. Serafini, H.F. del Valle y J. F. Gallardo Lancho. 2008. Estimación indirecta de emisiones de CO2 a partir de información satelital en áreas quemadas de ambientes insulares del delta del río Paraná (ARGENTINA).XII Simposio de la Sociedad Latinoamericana de Especialistas en Percepción Remota (SELPER). La Habana. Cuba. Septiembre de 2008.
 
@@ -286,7 +279,7 @@ Soils Using Multisensor Radar Data: A Case Study from Northeastern Patagonia (Ar
 
 Emilio Chuvieco, Sergio Opazo, Walter Sione, Héctor del Valle, Jesús Anaya, Carlos Di Bella, Isabel Cruz, Lilia Manzo, Gerardo López, Nicolas Mari, Federico González-Alonso, Fabiano Morelli, Alberto Setzer, Ivan Csiszar, Jon Ander Kanpandegi, Aitor Bastarrika, and Renata Libonati. 2008. Global burned-land estimation in Latin America using MODIS composite data. Ecological Applications. Volume 18, Issue 1 (January 2008).
 
-Año 2007
+## **``` Año 2007 ```** 
 
 Aceñolaza, P., E. Rodriguez y J. de Dios Muñoz, 2007. Flora exótica del Parque Nacional Pre-Delta, Entre Ríos, Argentina. Informe para la Administración de Parques Nacionales.
 
