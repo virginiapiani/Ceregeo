@@ -1,7 +1,7 @@
 site_name: Centro Regional de Geomática
 site_description: Centro Regional de Geomática
 site_author: Fernando Tentor
-site_url: https://github.com/FernandoTentor
+site_url: https://ceregeo.github.io/Ceregeo/
 
 # Repository
 repo_name: Ceregeo
@@ -28,21 +28,21 @@ theme:
   language: es
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: 0D7ABF
+      accent: 219DDB
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
-      primary: red
-      accent: red
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
   font:
     text: Google Sans
     code: Regular
-  favicon: assets/favicon.png
+  favicon: images/favicon.ico
   icon:
     logo: logo
 
@@ -100,7 +100,9 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Introduccion: index.md
-  - Trabajos: index.md
-  - Catalog Stats: index.md
+  - Inicio: index.md
+  - Ceregeo: pages/ceregeo.md
+  - Quienes Somos: pages/quienes_somos.md
+  - Noticias: pages/noticias.md
   - Publicaciones: pages/publicaciones.md
+  - Contacto: pages/contacto.md

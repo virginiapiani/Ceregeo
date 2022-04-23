@@ -1,8 +1,6 @@
 # Bienvenido al Centro Regional de Geomática
 
-## Introducción
+![image](images/logoceregeo.jpeg)
 
-## Quiene Somos
 
-## Publicaciones
 
