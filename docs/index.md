@@ -1,6 +1,5 @@
 # Bienvenido al Centro Regional de Geomática
-
-![image](images/logoceregeo.jpeg)
+![image](images/logoceregeo.png)
 
 
 
