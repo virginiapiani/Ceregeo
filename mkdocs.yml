@@ -4,8 +4,9 @@ site_author: Fernando Tentor
 site_url: https://ceregeo.github.io/Ceregeo/
 
 # Repository
-repo_name: Ceregeo
+repo_name: Ceregeo/Ceregeo
 repo_url: https://github.com/Ceregeo/Ceregeo
+edit_uri: ./edit/main/docs
 
 # Copyright
 copyright: 'Copyright &copy; 2021 - 2022 Fernando Tentor'
