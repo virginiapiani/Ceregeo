@@ -1,5 +1,8 @@
 # Publicaciones
 
+## **``` Año 2022 ```**  
+
+Metternicht, G., del Valle, H., Tentor, F., Sione, W., Zamboni, P., and Aceñolaza, P.: Quality assessment of open access Digital Terrain Models to estimate topographic attributes relevant to soil vertic properties prediction. A case study of Entre Rios province (Argentina), EGU General Assembly 2022, Vienna, Austria, 23–27 May 2022, EGU22-3323, https://doi.org/10.5194/egusphere-egu22-3323, 2022.
 
 ## **``` Año 2020 ```**  
 
