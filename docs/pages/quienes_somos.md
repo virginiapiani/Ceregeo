@@ -60,3 +60,9 @@ Centro Regional de Geomática
 Facultad de Ciencia y Tecnología – Subsede Oro Verde
 Universidad Autónoma de Entre Ríos
 virginiapiani@gmail.com
+
+Est. Facundo Boladeras (Becario CIN)
+Centro Regional de Geomática
+Facultad de Ciencia y Tecnología – Subsede Oro Verde
+Universidad Autónoma de Entre Ríos
+facub5335@gmail.com
