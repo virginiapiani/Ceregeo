@@ -34,9 +34,9 @@ Dr. Héctor del Valle
 Centro Regional de Geomática  
 Facultad de Ciencia y Tecnología – Universidad Autónoma de Entre Ríos  
 
-Lic. Noelí Baeza
-Centro Regional de Geomática
-Facultad de Ciencia y Tecnología – Universidad Autónoma de Entre Ríos 
+Lic. Noelí Baeza  
+Centro Regional de Geomática  
+Facultad de Ciencia y Tecnología – Universidad Autónoma de Entre Ríos  
 
 Ing. Esp. Mg. Pablo Fontanini  
 Centro Regional de Geomática  
