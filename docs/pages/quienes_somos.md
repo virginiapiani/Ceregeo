@@ -6,7 +6,6 @@ Centro Regional de Geomática
 Facultad de Ciencia y Tecnología – Universidad Autónoma de Entre Ríos / Sede Villaguay
 fernandotentor@gmail.com
  
-
 ## Investigadores:
 
 Dra. Pamela Zamboni
@@ -38,8 +37,6 @@ Facultad de Ciencia y Tecnología – Universidad Autónoma de Entre Ríos
 Ing. Esp. Mg. Pablo Fontanini
 Centro Regional de Geomática
 Facultad de Ciencia y Tecnología – Universidad Autónoma de Entre Ríos
-
- 
 
 ## Becarios de Investigación:
 
