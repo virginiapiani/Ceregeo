@@ -1,6 +1,6 @@
 # Publicaciones
 
-<div style="text-align:justify ">  
+
 
 ## **``` Año 2022 ```**  
 
@@ -313,4 +313,3 @@ Soils Using Multisensor Radar Data: A Case Study from Northeastern Patagonia (Ar
 
 * Aceñolaza P. G., Sione, W.F.; Kalesnik, F.; Serafini M. S. 2005. Determinación de unidades homogéneas de vegetación en el Parque Nacional Pre-Delta (Argentina). Temas de la Biodiversidad del Litoral Fluvial Argentino II. Insugeo 14: 81-90.
 
-</div>
