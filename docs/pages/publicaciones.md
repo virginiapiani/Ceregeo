@@ -1,6 +1,6 @@
 # Publicaciones
 
-# Revistas Científicas:
+## Revistas Científicas:
 
 ## **``` Año 2022 ```**  
 
