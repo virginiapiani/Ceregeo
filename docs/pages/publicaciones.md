@@ -152,7 +152,7 @@ Castro Díaz, R.; Zamboni, L.P.; Sione, W.; Aceñolaza, P.G. 2018. Elementos ter
 * Aceñolaza P. G., Sione, W.F.; Kalesnik, F.; Serafini M. S. 2005. Determinación de unidades homogéneas de vegetación en el Parque Nacional Pre-Delta (Argentina). Temas de la Biodiversidad del Litoral Fluvial Argentino II. Insugeo 14: 81-90.
 
 
-# Libros y Capítulos de libros:
+## Libros y Capítulos de libros:
 
 ## **``` Año 2021 ```**  
 
@@ -233,7 +233,7 @@ Blanco, P.D.; Hardtke, L.A.; Rostagno, C.M.; del Valle, H.F.; Metternicht, G.I. 
 * del Valle, H.; Blanco, P.; Sione, W.; Rostagno, C.; Elissalde, N. 2008. Assessment of Salt-Affected Soils Using Multisensor Radar Data: A Case Study from Northeastern Patagonia (Argentina). Remote Sensing of Soil Salinization: Impact on Land Management Ed. Graciela Metternicht. 155-173 Pp.
 
 
-# Publicaciones en volúmenes especiales/actas de congresos:
+## Publicaciones en volúmenes especiales/actas de congresos:
 
 ## **``` Año 2021 ```**  
 
@@ -319,7 +319,6 @@ Blanco, P.D.; Hardtke, L.A.; Rostagno, C.M.; del Valle, H.F.; Metternicht, G.I. 
 
 * Sione, W. (ed.) 2016. «SELPER 2016: Geotecnologías, Herramientas para la construcción de una nueva visión del cambio global y su transformación para un futuro sostenible». Editorial EdunLu, Luján-Buenos Aires, Argentina. Primera Edición. ISBN: 978-987-3941-14-6. 
 
- *
 ## **``` Año 2015 ```**  
 
 * Barrachini, A.; Rodriguez, E.E.; Aceñolaza, P. 2015. Actualización de la base de datos de las especies exóticas leñosas para la provincia de Entre Ríos. XII Jornadas de Ciencias Naturales del Litoral. Paraná, Entre Ríos, Argentina. Scientia Interfluvius (Supl.): 24.
@@ -448,7 +447,7 @@ Blanco, P.D.; Hardtke, L.A.; Rostagno, C.M.; del Valle, H.F.; Metternicht, G.I. 
 
 * Rodriguez, E.; Aceñolaza, P.; Muñoz, J. de Dios y Z. Marchetti. 2007. Actualización de la lista florística del Parque nacional Pre-Delta. Boletín de la Sociedad Argentina de Botánica 42 (s): 97.
 
-# Informes y trabajos ineditos:
+## Informes y trabajos ineditos:
 
 ## **``` Año 2021 ```**  
 
