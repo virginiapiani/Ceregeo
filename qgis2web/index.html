@@ -1,0 +1,284 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" href="css/leaflet.css">
+        <link rel="stylesheet" href="css/qgis2web.css"><link rel="stylesheet" href="css/fontawesome-all.min.css">
+        <style>
+        #map {
+            width: 1346px;
+            height: 735px;
+        }
+        </style>
+        <title></title>
+    </head>
+    <body>
+        <div id="map">
+        </div>
+        <script src="js/qgis2web_expressions.js"></script>
+        <script src="js/leaflet.js"></script>
+        <script src="js/leaflet.rotatedMarker.js"></script>
+        <script src="js/leaflet.pattern.js"></script>
+        <script src="js/leaflet-hash.js"></script>
+        <script src="js/Autolinker.min.js"></script>
+        <script src="js/rbush.min.js"></script>
+        <script src="js/labelgun.min.js"></script>
+        <script src="js/labels.js"></script>
+        <script src="data/Frog_selsey_outwoods_2.js"></script>
+        <script src="data/Frog_selsey_outwoods_3.js"></script>
+        <script src="data/Selsey_4.js"></script>
+        <script src="data/Outwoods_Warren_5.js"></script>
+        <script>
+        var map = L.map('map', {
+            zoomControl:true, maxZoom:28, minZoom:1
+        }).fitBounds([[50.74131274512777,-0.8151463548317325],[50.76690227602988,-0.7409821660918037]]);
+        var hash = new L.Hash(map);
+        map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
+        var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
+        var bounds_group = new L.featureGroup([]);
+        function setBounds() {
+        }
+        map.createPane('pane_GoogleMaps_0');
+        map.getPane('pane_GoogleMaps_0').style.zIndex = 400;
+        var layer_GoogleMaps_0 = L.tileLayer('https://mt1.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
+            pane: 'pane_GoogleMaps_0',
+            opacity: 1.0,
+            attribution: '',
+            minZoom: 1,
+            maxZoom: 28,
+            minNativeZoom: 0,
+            maxNativeZoom: 19
+        });
+        layer_GoogleMaps_0;
+        map.addLayer(layer_GoogleMaps_0);
+        map.createPane('pane_GoogleSatellite_1');
+        map.getPane('pane_GoogleSatellite_1').style.zIndex = 401;
+        var layer_GoogleSatellite_1 = L.tileLayer('https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}', {
+            pane: 'pane_GoogleSatellite_1',
+            opacity: 1.0,
+            attribution: '',
+            minZoom: 1,
+            maxZoom: 28,
+            minNativeZoom: 0,
+            maxNativeZoom: 19
+        });
+        layer_GoogleSatellite_1;
+        map.addLayer(layer_GoogleSatellite_1);
+        function pop_Frog_selsey_outwoods_2(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['id'] !== null ? autolinker.link(feature.properties['id'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['Farm'] !== null ? autolinker.link(feature.properties['Farm'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['Field'] !== null ? autolinker.link(feature.properties['Field'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['area'] !== null ? autolinker.link(feature.properties['area'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_Frog_selsey_outwoods_2_0() {
+            return {
+                pane: 'pane_Frog_selsey_outwoods_2',
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(125,139,143,1.0)',
+                interactive: true,
+            }
+        }
+        map.createPane('pane_Frog_selsey_outwoods_2');
+        map.getPane('pane_Frog_selsey_outwoods_2').style.zIndex = 402;
+        map.getPane('pane_Frog_selsey_outwoods_2').style['mix-blend-mode'] = 'normal';
+        var layer_Frog_selsey_outwoods_2 = new L.geoJson(json_Frog_selsey_outwoods_2, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_Frog_selsey_outwoods_2',
+            layerName: 'layer_Frog_selsey_outwoods_2',
+            pane: 'pane_Frog_selsey_outwoods_2',
+            onEachFeature: pop_Frog_selsey_outwoods_2,
+            style: style_Frog_selsey_outwoods_2_0,
+        });
+        bounds_group.addLayer(layer_Frog_selsey_outwoods_2);
+        map.addLayer(layer_Frog_selsey_outwoods_2);
+        function pop_Frog_selsey_outwoods_3(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['id'] !== null ? autolinker.link(feature.properties['id'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['Farm'] !== null ? autolinker.link(feature.properties['Farm'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2"><strong>Field</strong><br />' + (feature.properties['Field'] !== null ? autolinker.link(feature.properties['Field'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">area</th>\
+                        <td>' + (feature.properties['area'] !== null ? autolinker.link(feature.properties['area'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_Frog_selsey_outwoods_3_0() {
+            return {
+                pane: 'pane_Frog_selsey_outwoods_3',
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(145,82,45,1.0)',
+                interactive: true,
+            }
+        }
+        map.createPane('pane_Frog_selsey_outwoods_3');
+        map.getPane('pane_Frog_selsey_outwoods_3').style.zIndex = 403;
+        map.getPane('pane_Frog_selsey_outwoods_3').style['mix-blend-mode'] = 'normal';
+        var layer_Frog_selsey_outwoods_3 = new L.geoJson(json_Frog_selsey_outwoods_3, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_Frog_selsey_outwoods_3',
+            layerName: 'layer_Frog_selsey_outwoods_3',
+            pane: 'pane_Frog_selsey_outwoods_3',
+            onEachFeature: pop_Frog_selsey_outwoods_3,
+            style: style_Frog_selsey_outwoods_3_0,
+        });
+        bounds_group.addLayer(layer_Frog_selsey_outwoods_3);
+        map.addLayer(layer_Frog_selsey_outwoods_3);
+        function pop_Selsey_4(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['id'] !== null ? autolinker.link(feature.properties['id'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['Farm'] !== null ? autolinker.link(feature.properties['Farm'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['Field'] !== null ? autolinker.link(feature.properties['Field'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['area'] !== null ? autolinker.link(feature.properties['area'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_Selsey_4_0() {
+            return {
+                pane: 'pane_Selsey_4',
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'square',
+                lineJoin: 'bevel',
+                weight: 3.0,
+                fillOpacity: 0,
+                interactive: true,
+            }
+        }
+        map.createPane('pane_Selsey_4');
+        map.getPane('pane_Selsey_4').style.zIndex = 404;
+        map.getPane('pane_Selsey_4').style['mix-blend-mode'] = 'normal';
+        var layer_Selsey_4 = new L.geoJson(json_Selsey_4, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_Selsey_4',
+            layerName: 'layer_Selsey_4',
+            pane: 'pane_Selsey_4',
+            onEachFeature: pop_Selsey_4,
+            style: style_Selsey_4_0,
+        });
+        bounds_group.addLayer(layer_Selsey_4);
+        map.addLayer(layer_Selsey_4);
+        function pop_Outwoods_Warren_5(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['id'] !== null ? autolinker.link(feature.properties['id'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['Farm'] !== null ? autolinker.link(feature.properties['Farm'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['Field'] !== null ? autolinker.link(feature.properties['Field'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['area'] !== null ? autolinker.link(feature.properties['area'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_Outwoods_Warren_5_0() {
+            return {
+                pane: 'pane_Outwoods_Warren_5',
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'square',
+                lineJoin: 'bevel',
+                weight: 3.0,
+                fillOpacity: 0,
+                interactive: true,
+            }
+        }
+        map.createPane('pane_Outwoods_Warren_5');
+        map.getPane('pane_Outwoods_Warren_5').style.zIndex = 405;
+        map.getPane('pane_Outwoods_Warren_5').style['mix-blend-mode'] = 'normal';
+        var layer_Outwoods_Warren_5 = new L.geoJson(json_Outwoods_Warren_5, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_Outwoods_Warren_5',
+            layerName: 'layer_Outwoods_Warren_5',
+            pane: 'pane_Outwoods_Warren_5',
+            onEachFeature: pop_Outwoods_Warren_5,
+            style: style_Outwoods_Warren_5_0,
+        });
+        bounds_group.addLayer(layer_Outwoods_Warren_5);
+        map.addLayer(layer_Outwoods_Warren_5);
+        var baseMaps = {};
+        L.control.layers(baseMaps,{'<img src="legend/Outwoods_Warren_5.png" /> Outwoods_Warren': layer_Outwoods_Warren_5,'<img src="legend/Selsey_4.png" /> Selsey': layer_Selsey_4,'<img src="legend/Frog_selsey_outwoods_3.png" /> Frog_selsey_outwoods': layer_Frog_selsey_outwoods_3,'<img src="legend/Frog_selsey_outwoods_2.png" /> Frog_selsey_outwoods': layer_Frog_selsey_outwoods_2,"Google Satellite": layer_GoogleSatellite_1,"Google Maps": layer_GoogleMaps_0,},{collapsed:false}).addTo(map);
+        setBounds();
+        var i = 0;
+        layer_Frog_selsey_outwoods_3.eachLayer(function(layer) {
+            var context = {
+                feature: layer.feature,
+                variables: {}
+            };
+            layer.bindTooltip((layer.feature.properties['Field'] !== null?String('<div style="color: #000000; font-size: 10pt; font-family: \'MS Shell Dlg 2\', sans-serif;">' + layer.feature.properties['Field']) + '</div>':''), {permanent: true, offset: [-0, -16], className: 'css_Frog_selsey_outwoods_3'});
+            labels.push(layer);
+            totalMarkers += 1;
+              layer.added = true;
+              addLabel(layer, i);
+              i++;
+        });
+        resetLabels([layer_Frog_selsey_outwoods_3]);
+        map.on("zoomend", function(){
+            resetLabels([layer_Frog_selsey_outwoods_3]);
+        });
+        map.on("layeradd", function(){
+            resetLabels([layer_Frog_selsey_outwoods_3]);
+        });
+        map.on("layerremove", function(){
+            resetLabels([layer_Frog_selsey_outwoods_3]);
+        });
+        </script>
+    </body>
+</html>
