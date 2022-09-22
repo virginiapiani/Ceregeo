@@ -14,6 +14,8 @@
 
 ## **``` Año 2020 ```**  
 
+* Heit, G.; Sione, W. F.; Aceñolaza, P. G.. 2020. A MULTIPLE MODEL APPROACH FOR FUTURE POTENTIAL DISTRIBUTION OF HLB: SOUTH AMERICA CASE STUDY. International Journal of Food and Agricultural Economics (IJFAEC) 08: 179 - 192. http://dx.doi.org/10.22004/ag.econ.303557
+
 * Bizai, M. L.; Peralta, R.; Simonetto, A.; Olivera, L. V.; Arias, E. E.; Dalla Costa, J.; Manattini, S.; Sione, W.; Fabbro, D.; Diez, C. 2020. Geographic distribution of Trypanosoma cruzi genotypes detected in chronic infected people from Argentina. Association with climatic variables and clinical manifestations of Chagas disease. Infection, Genetics and Evolution 78: 104128.
 
 * Castro-Díaz, R.; Natenzon, C. 2020. Transformaciones territoriales y sus implicancias actuales en la prestación de servicios ambientales hídricos de la cuenca de la Laguna Fúquene (Colombia). Punto Sur 2 (1): 75-95.
