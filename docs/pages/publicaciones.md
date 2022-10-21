@@ -12,6 +12,8 @@
 
 * Pairo, P.E.; Rodriguez, E.; Bellocq, M.I.; Aceñolaza, P. 2021. Changes in taxonomic and functional diversity of plants in a chronosequence of Eucalyptus grandis plantations. Scientific Reports 11:10768.
 
+* Piani, V. y Boladeras, F. 2021. Tecnologías de Información Geográfica como recursos para la gestión de riesgos ambientales: ejemplos en forestaciones del Delta del Río Paraná. V Congreso Nacional de Tecnologías de Información Geográfica y III Congreso Internacional de Tecnologías de Información Geográfica. UNCPBA - Campus Universitario. Tandil, Buenos Aires, Argentina. 10 al 12 de noviembre de 2021.
+
 ## **``` Año 2020 ```**  
 
 * Heit, G.; Sione, W. F.; Aceñolaza, P. G.. 2020. A MULTIPLE MODEL APPROACH FOR FUTURE POTENTIAL DISTRIBUTION OF HLB: SOUTH AMERICA CASE STUDY. International Journal of Food and Agricultural Economics (IJFAEC) 08: 179 - 192. http://dx.doi.org/10.22004/ag.econ.303557
@@ -25,6 +27,8 @@
 * Santoni, L.; Zamboni, P.; Tentor, F.; Sione, W. 2020. Cartografía de bosque nativo en la cuenca del Arroyo Paracao (Oro Verde, Entre Ríos, Argentina): aportes para el Ordenamiento Ambiental Territorial. GeoSIG 13 (21):1-13.
 
 ## **``` Año 2019 ```**  
+
+* Castro-Díaz, R.; Sione, W.; Ferreiro, B.; Piani, V.; Urich, G.; Aceñolaza, P. 2019. Spatial modelling of social-ecological systems of hydrological environmental services in Las Conchas Creek basin, Argentina. En: Delgado, L.E. y Marín, V. (Eds.). Social-ecological systems of Latin America: complexities and challenges. Springer International Publishing. 438 pp. ISBN 978-3-030-28451-0 (Hardcover) ISBN 978-3-030-28452-7 (eBook) 
 
 * Heit, G.; Sione W.; Aceñolaza, P. 2019. Spatio-temporal risk assessment models for Lobesia botrana in uncolonized winegrowing areas. Journal of Plant Protection Research 59 (2): 265 - 272.
 
@@ -78,6 +82,8 @@ Castro Díaz, R.; Zamboni, L.P.; Sione, W.; Aceñolaza, P.G. 2018. Elementos ter
 * Martínez Carretero, E.; Faggi, A. M.; Fontana, J.; Aceñolaza, P.; Gandullo, R.; Cabido, M.; Iriart, D.; Prado, D.; Roig, F.A.; Eskuche, U. 2016. Prodromus Sinsistemático de la República Argentina y una breve introducción a los estudios fitosociológicos. Boletín de la Sociedad Argentina de Botánica 51: 469–549. 
 
 ## **``` Año 2015 ```**  
+
+* Albornoz, M.; Burgos, N.; Bustamante, C.; Comba, A.; Fernández, E.; Ghillini, D.; Piani, V.; Reyes, E.; Ruiz Moreno, D.; Urich, G.; Zulpo, V.; Quignard, I.; Burroni, N.; Campos Soldini, P.; Sione, W. y Zamboni, P. 2015. Experiencia de la cátedra Sistemas de Información Geográfica (FCyT UADER) en la aplicación de herramientas de geomática en estudios ecoepidemiológico. Jornadas Argentinas de Geotecnología 2015. Universidad Nacional de San Luis. SELPER. Universidad Nacional de Lujan. San Luís. Septiembre de 2015.
 
 * Graça, P. M.; Maldonado, F. D.; Santos, J. R.; Keizer, E. W. H. 2015. Multi-temporal analysis of radiometric changes in satellite images of forest edges to infer selective-logging áreas in the Amazon-forest. Acta Amazonica 45(1): 30-44. 
 
