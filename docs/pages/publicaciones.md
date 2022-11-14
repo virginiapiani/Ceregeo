@@ -4,6 +4,8 @@
 
 ## **``` Año 2022 ```**  
 
+* Del Valle, H.; Sione,W.F.; Aceñolaza, P.G. 2022. Wetland Fire Assessment and Monitoring in the Paraná River Delta, Using Radar and Optical Data for Burnt Area Mapping. Fire 2022, 5, 190. https://doi.org/10.3390/fire5060190.
+
 * Metternicht, G.; del Valle, H.; Tentor, F.; Sione, W.; Zamboni, P.; Aceñolaza, P. 2022. Quality assessment of open access Digital Terrain Models to estimate topographic attributes relevant to soil vertic properties prediction. A case study of Entre Rios province (Argentina). EGU22-3323  https://doi.org/10.5194/egusphere-egu22-3323.
 
 * Gómez, A. A.; López, M. S.; Müller, G. V.; López, L. R. Sione, W. F.; Giovanini, L. 2022. Modeling of leptospirosis outbreaks in relation to hydroclimatic variables in the northeast of Argentina. Cell Press Journal. VOLUME 8, ISSUE 6, E09758, JUNE 01, 2022 https://doi.org/10.1016/j.heliyon.2022.e09758
