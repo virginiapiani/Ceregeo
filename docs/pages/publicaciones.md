@@ -22,8 +22,6 @@
 
 * Castro-Díaz, R.; Natenzon, C. 2020. Transformaciones territoriales y sus implicancias actuales en la prestación de servicios ambientales hídricos de la cuenca de la Laguna Fúquene (Colombia). Punto Sur 2 (1): 75-95.
 
-* Cian, U.; Frezzia, S.; Protti, L.; Quignard, I.; Zamboni, P.; Sione, W. 2020. Utilización de Geoinformación en la Cuenca del Arroyo Ensenada (Entre Ríos, Argentina): aportes para la gestión territorial.  GeoSIG 12 (17): 1-19.
-
 * Santoni, L.; Zamboni, P.; Tentor, F.; Sione, W. 2020. Cartografía de bosque nativo en la cuenca del Arroyo Paracao (Oro Verde, Entre Ríos, Argentina): aportes para el Ordenamiento Ambiental Territorial. GeoSIG 13 (21):1-13.
 
 ## **``` Año 2019 ```**  
@@ -41,7 +39,8 @@
 * López, M.S.; Müller, G. V.; Sione, W. F. 2018. Analysis of the spatial distribution of scientific publications regarding vectorborne diseases related to climate variability in South America. Spatial and Spatio-temporal Epidemiology 26 (2018): 35–9.
 
 * Anaya Acevedo, J. A; Rodriguez, A.; Sione, W. F. 2018. Identificación de áreas quemadas mediante el análisis de series de tiempo en el ámbito de computación en la nube. Revista de Teledetección 51: 61-73. 
-Castro Díaz, R.; Zamboni, L.P.; Sione, W.; Aceñolaza, P.G. 2018. Elementos territoriales claves para la gestión del fuego en el Paraná medio. El Ojo del Condor 9: 28–30.
+
+* Castro Díaz, R.; Zamboni, L.P.; Sione, W.; Aceñolaza, P.G. 2018. Elementos territoriales claves para la gestión del fuego en el Paraná medio. El Ojo del Condor 9: 28–30.
 	
 ## **``` Año 2017 ```**  
 
@@ -241,6 +240,15 @@ Blanco, P.D.; Hardtke, L.A.; Rostagno, C.M.; del Valle, H.F.; Metternicht, G.I. 
 
 ## Publicaciones en volúmenes especiales/actas de congresos:
 
+## **``` Año 2022 ```**  
+* Baeza N.D., Tentor F.R., Boladeras F., Maldonado F.D., Zamboni P.L., Diaz S.R., Aceñolaza P.G, Santoni L.C., Piani V.A., Sione W.F. 2022.  Especificaciones STAC para la creación de Infraestructura de Datos Espaciales (IDE) Open-Source. Caso: FCYT- UADER. VI Congreso Internacional de Ordenamiento Territorial y Tecnologías de la Información Geográfica. Universidad Nacional de Luján. Buenos Aires. 26 al 28 de octubre de 2022. 
+
+* Boladeras F.R., Piani V., Zamboni L.P., Sione W.F. 2022. Aportes a la caracterización de la vulnerabilidad ambiental en el Delta del Río Paraná, Argentina, mediante geoinformática y Técnicas de Evaluación Multi-criterio. XX Simposio Internacional de la Sociedad Latinoamericana de Percepción Remota y Sistemas de Información Espacial. Monterrey, Nuevo León, México. 26 al 28 de octubre de 2022. 
+
+* Morante N.M., Pineda Sanchez A., Ruiz Moreno F., Sallenave J., Vergara Guarascio V., Zamboni P., Quignard I., Baeza N., Piani V., Sione W. 2022. Aplicaciones de Tecnologías de Información Geográfica para el diagnóstico y zonificación de usos del ANP Tierra Chaná (Diamante, ER, Argentina). VI Congreso Internacional de Ordenamiento Territorial y Tecnologías de la Información Geográfica. Universidad Nacional de Luján. Buenos Aires. 26 al 28 de octubre de 2022.
+
+* Piani V., Zamboni L.P., Tentor F., Sione W., Aceñolaza P.G. 2022. Desarrollo de algoritmos de Google Earth Engine para el modelado de la dinámica fenológica de plantaciones forestales de la provincia de Entre Ríos. VI Congreso Internacional de Ordenamiento Territorial y Tecnologías de la Información Geográfica. Universidad Nacional de Luján. Buenos Aires. 26 al 28 de octubre de 2022.
+
 ## **``` Año 2021 ```**  
 
 * Rodriguez, E.E.; Soñez, P.; Aceñolaza, P.G. 2021. Herbarios de la provincia de Entre Ríos: pasado, presente y futuro. Boletín de la Sociedad Argentina de Botánica 56 (Supl.): 26.
@@ -248,6 +256,8 @@ Blanco, P.D.; Hardtke, L.A.; Rostagno, C.M.; del Valle, H.F.; Metternicht, G.I. 
 * Bazzalo, M.; Rodriguez, E.E.; Treboux, C.; Papurello, S.; Bergara, R. 2021. Flora Vascular de una Reserva urbana asociada al Río Uruguay (Colón, Provincia de Entre Ríos). Boletín de la Sociedad Argentina de Botánica 56 (Supl.): 58.
 
 * Bazzalo M.; Rodriguez, E.E.; Treboux, C.; Papurello, S.; Bergara, R. 2021. Restauración de selva en galería en un barrio privado y en una reserva pública en la cuenca del río Uruguay (Colón, Entre Ríos). Libro de Resúmenes del II Encuentro Nacional de Restauración Ecológica de Argentina. 
+
+* Piani V. y Boladeras F. 2021. Tecnologías de Información Geográfica como recursos para la gestión de riesgos ambientales: ejemplos en forestaciones del Delta del Río Paraná. V Congreso Nacional de Tecnologías de Información Geográfica y III Congreso Internacional de Tecnologías de Información Geográfica. UNCPBA - Campus Universitario. Tandil, Buenos Aires, Argentina. 10 al 12 de noviembre de 2021.
 
 ## **``` Año 2019 ```** 
 
